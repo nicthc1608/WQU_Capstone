@@ -100,6 +100,5 @@ To install the required libraries:
 This repository is part of the MScFE690 Capstone Project at WorldQuant University.
 
 Data retrieved from Yahoo Finance, academic references from SSRN, JFQA, etc.
-
 Special thanks to WQU faculty and mentors.
 
