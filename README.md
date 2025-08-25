@@ -1,8 +1,9 @@
-# 📊 MScFE690 Capstone Project  
-## Estimating Value-at-Risk (VaR) and Expected Shortfall (ES) Using Traditional and EVT-Based Methods Across Multi-Asset Portfolios  
-WorldQuant University | MSc in Financial Engineering  
-**Team:** Nicholas Johnson & Bryan Mutua  
-**Advisor:**  
+### 📊 MScFE690 Capstone Project
+Estimating Value-at-Risk (VaR) and Expected Shortfall (ES) Using Traditional, Simulation, and EVT-Based Methods Across Multi-Asset Portfolios
+
+WorldQuant University | MSc in Financial Engineering
+Team: Nicholas Johnson & Bryan Mutua
+Advisor: Kenneth Abbott
 
 ---
 
